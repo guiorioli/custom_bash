@@ -1,9 +1,9 @@
 # Bash files for a custom layout
 
 ## Instructions
-File `.bash_profile` contains needed configs to change PS1, so that it displays:
+File `bashrc` contains needed configs to change PS1. Add its content to the end of your ~/.bashrc
+
+File `inputrc` contains needed code for case insensitive autocomplete. Add its content to ~/.inputrc (you may need to create the file)
+
+Result:
 ![](http://i.imgur.com/dhZNLyZ.png)
-
-File `.inputrc` contains needed code for case insensitive autocomplete
-
-You can either copy them as is to yout home folder, or add these lines to corresponding files in your home folder.
